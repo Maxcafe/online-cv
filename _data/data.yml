@@ -41,12 +41,12 @@ sidebar:
       - item: Stock Trade
         link:
 
-career-profile:
-    title: Career Profile
-        summary: Web Engineer
-        time: April 2018 -
-        details: |
-          I am a web engineer as a part time job.
+#career-profile:
+#    title: Career Profile
+#        summary: Web Engineer
+#        time: April 2018 -
+#        details: |
+#          I am a web engineer as a part time job.
 #      Summarise your career here lorem ipsum dolor sit amet, consectetuer
 #      adipiscing elit. You can [download this free resume/CV template here]().
 #      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
@@ -57,8 +57,8 @@ career-profile:
 
 education:
     - degree: No but purchasing Bachelor in Computer Science
-      university: Osaka University
-      time: April 2016 - 
+      university: Osaka University, Osaka Japan
+      time: April 2016 - Present
       details: |
 #        Describe your study here lorem ipsum dolor sit amet, consectetuer
 #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -70,11 +70,12 @@ education:
 #          - Bullet point
 
 
-#experiences:
-#    - role: Lead Developer
-#      time: 2015 - Present
-#      company: Startup Hubs, San Francisco
-#      details: |
+experiences:
+    - role: Web engineer
+      time: Apeil 2018 - Present
+      company: Media Opus Plus, Osaka Japan
+      details: |
+        I'm a web engineer at a part-time job.
 #        Describe your role here lorem ipsum dolor sit amet, consectetuer
 #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 #        Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -85,13 +86,14 @@ education:
 #        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
 #        architecto beatae vitae dicta sunt explicabo.
 
-#          - Bullet point
-#          - Bullet point
+          - Bullet point
+          - Bullet point
 
-#    - role: Senior Software Engineer
-#      time: 2014 - 2015
-#      company: Google, London
-#      details: |
+    - role: Data scientist
+      time: August 2018 - Present
+      company: Media Opus Plus, Osaka Japan
+      details: |
+        I'm a date　 at a part-time job.
 #        Describe your role here lorem ipsum dolor sit amet, consectetuer
 #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 #        Cum sociis natoque penatibus et magnis dis parturient montes,
