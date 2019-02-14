@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -41,12 +41,10 @@ sidebar:
       - item: Stock Trade
         link:
 
-#career-profile:
-#    title: Career Profile
-#        summary: Web Engineer
-#        time: April 2018 -
-#        details: |
-#          I am a web engineer as a part time job.
+career-profile:
+    title: WhoamI
+    details: |
+          I am a web engineer as a part time job.
 #      Summarise your career here lorem ipsum dolor sit amet, consectetuer
 #      adipiscing elit. You can [download this free resume/CV template here]().
 #      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
@@ -60,6 +58,7 @@ education:
       university: Osaka University, Osaka Japan
       time: April 2016 - Present
       details: |
+        I'm a student of Osaka University.
 #        Describe your study here lorem ipsum dolor sit amet, consectetuer
 #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
 #        sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -72,10 +71,10 @@ education:
 
 experiences:
     - role: Web engineer
-#      time: Apeil 2018 - Present
-#      company: Media Opus Plus, Osaka Japan
-#      details: |
-#        I'm a web engineer at a part-time job.
+      time: Apeil 2018 - Present
+      company: Media Opus Plus, Osaka Japan
+      details: |
+        I'm a web engineer at a part-time job.
 #        Describe your role here lorem ipsum dolor sit amet, consectetuer
 #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 #        Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -86,14 +85,14 @@ experiences:
 #        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
 #        architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
+#          - Bullet point
+#          - Bullet point
 
-#    - role: Data scientist
-#      time: August 2018 - Present
-#      company: Media Opus Plus, Osaka Japan
-#      details: |
-#        I'm a date　 at a part-time job.
+    - role: Data scientist
+      time: August 2018 - Present
+      company: Media Opus Plus, Osaka Japan
+      details: |
+        I'm a date　 at a part-time job.
 #        Describe your role here lorem ipsum dolor sit amet, consectetuer
 #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 #        Cum sociis natoque penatibus et magnis dis parturient montes,
