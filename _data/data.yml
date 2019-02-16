@@ -24,15 +24,15 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Japanese
-        level: Native
+        - idiom: Japanese
+          level: Native
 
-      - idiom: English
-        level: Beginner
+        - idiom: English
+          level: Beginner
 
     interests:
-      - item: National Defense
-        link:
+        - item: National Defense
+          link:
 
       - item: Infomation Security
         link:
@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: WHOAMI
     summary: |
-          I am a web engineer as a part time job.
+        I am a web engineer as a part time job.
 
 education:
     - degree: No. But purchasing Bachelor in Computer Science
