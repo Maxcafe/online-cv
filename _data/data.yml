@@ -34,11 +34,11 @@ sidebar:
         - item: National Defense
           link:
 
-      - item: Infomation Security
-        link:
+        - item: Infomation Security
+          link:
 
-      - item: Stock Trade
-        link:
+        - item: Stock Trade
+          link:
 
 career-profile:
     title: WHOAMI
@@ -89,7 +89,8 @@ experiences:
       details: |
         I joined Global Cybersecurity Camp as a participant.
         
-   　- role: Security Camp Forum
+
+    - role: Security Camp Forum
      　time: March 2019
      　company: Tokyo, Japan
      　details: |
