@@ -54,17 +54,6 @@ education:
       details: |
         I'm a student of Osaka University. I study about computer science.
 
-        I have made many programs.
-
-          - compiler of easy Pascal (written in Java)
-          - life game application (written in Java)
-          - easy chat application (written in C language)
-          - some command of terminal (written in C language)
-          - the program which solve Sudoku (written in C language)
-          - stop watch on FPGA board (written in VHDL)
-          - calculator with MCU board (written in VHDL and C language)
-          - electronic music box with MCU board (written in VHDL and C language)
-
 experiences:
     - role: Web engineer
       time: April 2018 - Present
@@ -108,6 +97,44 @@ experiences:
       company: Tokyo, Japan
       details: |
         I will make a presentation.
+
+projects:
+    title: My programs
+    intro: >
+      I show my programs.
+
+    assignments:
+      - title: Compiler of easy Pascal
+        link: "#"
+        tagline: "This is written in Java."
+
+      - title: Lifegame application
+        link: "#"
+        tagline: "This is written in Java."
+
+      - title: Chat application
+        link: "#"
+        tagline: "This is written in C language."
+
+      - title: Some commands of terminal
+        link: "#"
+        tagline: "This is written in C language."
+
+      - title: The program which solve Sudoku
+        link: "#"
+        tagline: "This is written in C language."
+
+      - title: Stop watch on FPGA board
+        link: "#"
+        tagline: "This is written in VHDL."
+
+      - title: Calculator with MCU board
+        link: "#"
+        tagline: "This is written in VHDL and C language."
+
+      - title: electronic music box with MCU board
+        link: "#"
+        tagline: "This is written in written in VHDL and C language."
 
 skills:
     title: Skills &amp; Proficiency
