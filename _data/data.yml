@@ -59,13 +59,42 @@ works:
       time: April 2018 - Present
       company: Media Opus Plus Co., Ltd., Osaka Japan
       details: |
-        I'm a web engineer at a part-time job. I made portal site of the company with colleagues. I used Speech API.
+        I'm a web engineer at a part-time job. I made portal site of the company with colleagues.
+
+        I use the knowledge below this.
+
+          - HTML5
+          - CSS
+          - Javascript
+          - Google Apps Script
+          - Speech API
+          - Salesforce API
+          - Python
+          - Django
+          - web
+          - Network
 
     - role: Data scientist
       time: August 2018 - Present
       company: Media Opus Plus Co., Ltd., Osaka Japan
       details: |
-        I'm a data scientist at a part-time job.
+        I'm a data scientist at a part-time job. The job is like consulting which use statistics and machine learning.
+
+        I use the knowledge below this.
+
+          - Statistics
+          - Economic
+          - Social psychology
+          - Marketing
+          - Machine Learning
+          - Deep Learning
+          - pandus
+          - numpy
+          - Collaborative filtering
+          - tf-idf
+          - Multiple regression analysis
+          - Single regression analysis
+          - and so on
 
 experiences:
     - role: Security Mini Camp in Hyogo
@@ -78,19 +107,19 @@ experiences:
       time: August 2018
       company: Tokyo, Japan
       details: |
-        I joined reverse engineering zeminal as a participant.
+        I joined reverse engineering zeminal as a participant. I used Bus Pirate and SHIKURA to extract firmware of Wi-Fi router.
 
     - role: Security Mini Camp in Okinawa
       time: December 2018
       company: Okinawa, Japan
       details: |
-        I joined Security Mini Camp in Okinawa as a mentor.
+        I joined Security Mini Camp in Okinawa as a mentor. I supported teachers.
 
-    - role: Global Cybersecuriy Camp 2018
+    - role: Global Cybersecuriy Camp 2018 (GCC)
       time: January 2019
       company: Seoul, South Korea
       details: |
-        I joined Global Cybersecurity Camp as a participant.
+        I joined Global Cybersecurity Camp as a participant. GCC is a boot camp which Korea, Japan, Singapore, Taiwan join. for a week we learn about cybersecurity with other participants.
 
 awards:
     - role: Security Camp Forum
@@ -176,6 +205,6 @@ skills:
 
       - name: Evernote
         level: 60%
-        
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
