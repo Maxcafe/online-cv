@@ -43,10 +43,10 @@ sidebar:
 career-profile:
     title: WHOAMI
     summary: |
-        I am Ryota Kawakami. I am currently study information science in Osaka University, one of Japanese National University. I'm interested in information security. I want to prevent information from being stolen. As a result of keeping on thinking about doing it, I found my dream is to become a government staff who engage in national cybersecurity defense. To become excellent staff I must know more knowledge and techiques about cybersecurity. So I want to continue to join various event and aquiring knowledge and techiques.
+        I am Ryota Kawakami. I am currently study information science in Osaka University, one of Japanese National University. I'm interested in information security. I want to prevent information from being stolen. As a result of keeping on thinking about doing it, I found my dream is to become a government staff who engage in national cybersecurity defense. To become excellent staff I must know more knowledge and techniques about cybersecurity. So I want to continue to join various event and aquiring knowledge and techniques.
 
 education:
-    - degree: No. But purchasing Bachelor in Computer Science
+    - degree: Bachelor in Computer Science
       university: Osaka University, Osaka Japan
       time: April 2016 - Present
       details: |
@@ -54,7 +54,7 @@ education:
 
 experiences:
     - role: Web engineer
-      time: Apeil 2018 - Present
+      time: April 2018 - Present
       company: Media Opus Plus, Osaka Japan
       details: |
         I'm a web engineer at a part-time job.
@@ -63,7 +63,7 @@ experiences:
       time: August 2018 - Present
       company: Media Opus Plus, Osaka Japan
       details: |
-        I'm a date scientist at a part-time job.
+        I'm a data scientist at a part-time job.
 
     - role: Security Mini Camp in Hyogo
       time: May 2018
