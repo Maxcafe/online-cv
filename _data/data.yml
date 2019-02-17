@@ -54,7 +54,7 @@ education:
       details: |
         I'm a student of Osaka University. I study about computer science.
 
-experiences:
+works:
     - role: Web engineer
       time: April 2018 - Present
       company: Media Opus Plus Co., Ltd., Osaka Japan
@@ -67,6 +67,7 @@ experiences:
       details: |
         I'm a data scientist at a part-time job.
 
+experiences:
     - role: Security Mini Camp in Hyogo
       time: May 2018
       company: Hyogo, Japan
