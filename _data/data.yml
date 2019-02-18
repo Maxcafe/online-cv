@@ -47,10 +47,11 @@ career-profile:
 
         And I'm interested in the situation of not only Japan and also the world. I think that the best way to know about the world is to go abroad actually and talk with foreign people. When I joined Global Cybersecurity Camp 2018 in Seoul, I noticed that it is so important. I want to contribute to solving the problems of the world as a Japanese government staff. To do so, I need to know acutually current situations in the world.
 
-career-profile:
+whatis:
     title: What is BontyCon for me?
     summary: |
       hello.
+
 education:
     - degree: Bachelor in Computer Science
       university: Osaka University, Osaka Japan
