@@ -68,7 +68,7 @@ career-profile:
 whatis:
     title: What is BountyCon for me?
     summary: |
-      I think BountyCon is one of the biggest event which gives me more knowledge and techniques about computer security including bug bounty. 
+      I think BountyCon is one of the biggest event which gives me more knowledge and techniques about computer security including bug bounty.
 
 education:
     - degree: Bachelor in Computer Science
@@ -152,7 +152,7 @@ experiences:
       time: January 2019
       company: Seoul, South Korea
       details: |
-        I joined Global Cybersecurity Camp as a participant. GCC is an international boot camp which Korea, Japan, Singapore, Taiwan join. for a week we learn about cybersecurity with other participants.
+        I joined Global Cybersecurity Camp as a participant. GCC is an international boot camp which Korea, Japan, Singapore, Taiwan join. For a week we learn about cybersecurity with other participants. For example, digital forensicm, incident response, binary exploit and web security. I learned about them in CTF games.
 
 awards:
     - role: Security Camp Forum
