@@ -68,7 +68,7 @@ career-profile:
 whatis:
     title: What is BountyCon for me?
     summary: |
-
+      I think BountyCon is one of the biggest event which gives me more knowledge and techniques about computer security including bug bounty. 
 
 education:
     - degree: Bachelor in Computer Science
@@ -96,6 +96,9 @@ works:
           - Django
           - web
           - Network
+          - etc...
+
+        And I develop Salesforce Application a litte.
 
     - role: Data scientist
       time: August 2018 - Present
@@ -115,9 +118,10 @@ works:
           - numpy
           - Collaborative filtering
           - tf-idf
+          - Okapi BM25
           - Multiple regression analysis
           - Single regression analysis
-          - and so on
+          - etc...
 
 experiences:
     - role: Security Mini Camp in Hyogo
