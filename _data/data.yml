@@ -102,7 +102,7 @@ works:
           - Network
           - etc...
 
-        And I develop Salesforce Application a litte.
+        And I develop Salesforce Application a little.
 
     - role: Data scientist
       time: August 2018 - Present
