@@ -70,7 +70,7 @@ career-profile:
 whatis:
     title: What is BountyCon for me?
     summary: |
-      I think BountyCon is one of the biggest event which gives me more knowledge and techniques about computer security including bug bounty. I have been interested in computer security since March 2018, so maybe I have a little more knowledge than beginners. But last year I did my best to study cybersecurity through Security Camp, Global Cybersecuriy Camp and so on. As a result of these, I found it is important to know latest information at big events lile BountyCon. But because I'm student, I don't have enough money to take part in them. If I can join BountyCon, I will be able to learn many things. After it, I will be able to tell people around me like friends, colleagues and family my new knowledge. As a result, I believe it will lead to an improvement of security literacy in the world.
+      I think BountyCon is one of the beiggest event which many people all over the world join. and I think BountyCon is one of the biggest event which gives me more knowledge and techniques about computer security including bug bounty. I have been interested in computer security since March 2018, so maybe I have a little more knowledge than beginners. But last year I did my best to study cybersecurity through Security Camp, Global Cybersecuriy Camp and so on. As a result of these, I found it is important to know latest information at big events lile BountyCon. But because I'm student, I don't have enough money to take part in them. If I can join BountyCon, I will be able to learn many things. After it, I will be able to tell people around me like friends, colleagues and family my new knowledge. As a result, I believe it will lead to an improvement of security literacy in the world.
 
       If I can join BountyCon, I will be able to tell other participants my opinion. Though others may think I am a beginner, my opinion is original to me. So my opinion is different from others'. This means my opinion has as same value as others' do. So, I intend to speak positively my opinion. I believe this action will be meaningful for all participants.
 
@@ -118,6 +118,9 @@ works:
           - Marketing
           - Machine Learning
           - Deep Learning
+          - Script Mining
+          - Morphological Analysis
+          - Search Engine Algorithm
           - pandas
           - numpy
           - Collaborative filtering
