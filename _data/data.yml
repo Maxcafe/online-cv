@@ -100,7 +100,7 @@ works:
           - Django
           - web
           - Network
-          - etc...
+          - etc..
 
         And I develop Salesforce Application a little.
 
@@ -125,32 +125,34 @@ works:
           - Okapi BM25
           - Multiple regression analysis
           - Single regression analysis
-          - etc...
+          - etc..
 
 experiences:
     - role: Security Mini Camp in Hyogo
       time: May 2018
       company: Hyogo, Japan
       details: |
-        I joined Security Mini Camp in Hyogo as a participant.
+        I joined Security Mini Camp in Hyogo as a participant. Security Mini Camp is local version of Security Camp.
 
     - role: Security Camp 2018
       time: August 2018
       company: Tokyo, Japan
       details: |
+        Security Camp is one of the projects of the next generation cyber security human resource development that Japanese ministries and agencies develop.
+
         I joined reverse engineering zeminal as a participant. I used Bus Pirate and SHIKURA to extract firmware of Wi-Fi router. I learned about IoT hacking.
 
     - role: LT Convention in Kansai Area
       time: October 2018
       company: Osaka, Japan
       details: |
-        I make a presentation about what I learned at Securtiy Camp 2018. There were over 100 adults.
+        I make a presentation about what I learned at Securtiy Camp 2018. There were over 100 adults who engage in security industry.
 
     - role: Security Mini Camp in Okinawa
       time: December 2018
       company: Okinawa, Japan
       details: |
-        I joined Security Mini Camp in Okinawa as a mentor. I supported teachers.
+        I joined Security Mini Camp in Okinawa as a mentor. I supported teachers. Security Mini Camp is local version of Security Camp.
 
     - role: Global Cybersecuriy Camp 2018 (GCC)
       time: January 2019
